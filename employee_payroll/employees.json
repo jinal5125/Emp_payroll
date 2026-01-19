@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "jinal",
+        "salary": 30000,
+        "password": "jinal123",
+        "joining_date": "12-02-2025"
+    },
+    {
+        "id": 2,
+        "name": "tulsi",
+        "salary": 34000,
+        "password": "tulsi123",
+        "joining_date": "17-05-2025"
+    },
+    {
+        "id": 3,
+        "name": "priya",
+        "salary": 40000,
+        "password": "priya123",
+        "joining_date": "12-07-2024"
+    }
+]
